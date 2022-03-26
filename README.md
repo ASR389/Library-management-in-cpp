@@ -3,7 +3,7 @@ A simple library-management system where you can enter the record of new books a
 
 This project is made in C++ using many concepts of C++.
 
-->Teacher Functionality after Login
+##Teacher Functionality after Login
 1. Add new book
 2. Update any Book
 3. Delete Book
@@ -12,7 +12,7 @@ This project is made in C++ using many concepts of C++.
 
  Enter your choice :
 
-->Student Functionality after Login
+##Student Functionality after Login
 1. Borrow a Book
 2. Return a Book
 3. List of All Books
